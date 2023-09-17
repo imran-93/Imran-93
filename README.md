@@ -1,55 +1,57 @@
-# Hello, I'm Imran Gardezi! 🚀
+# Imran Gardezi 
 
-I'm a **Senior Software Engineer** based in **Vancouver, BC, Canada**. With years of experience in the tech industry, I have a rich history in developing mobile and frontend SaaS applications. Whether it's diving deep into code, leading architectural initiatives, or mentoring budding developers, I approach every task with passion and precision.
-
----
-
-## 🌟 Core Competencies & Expertise
-
-- **End-to-End Mobile Development:** Strong foundation in iOS (Swift), Android (Kotlin), and cross-platform solutions with React Native.
-  
-- **Architectural Leadership:** Specializing in transitioning from tightly coupled codebases to modular, scalable, and efficient structures.
-  
-- **Data-Driven Development:** Harnessing the power of analytics to enhance user experiences, boost software quality, and deliver tangible results.
-  
-- **Enterprise SaaS Expertise:** From spearheading projects at **Brex** and **Shopify** to leading re-architectural efforts, my experience with enterprise SaaS applications is vast and varied.
+### Senior Software Engineer at Brex
 
 ---
 
-## 📈 Career Highlights
+## 🚀 About Me
 
-- **Impactful Leadership:** Mentored over a dozen ICs, enabling them to contribute to pivotal projects. Conducted knowledge-sharing sessions and drove best coding practices.
-  
-- **Project Management:** Led and successfully delivered strategic initiatives like the Commenting feature at **Brex** and enriched product detail descriptions at **Shopify**.
-  
-- **Consultancy Prowess:** Provided comprehensive software engineering consultation, including the end-to-end development of a React Native app for **NabyPay**.
-  
-- **Innovative Problem Solving:** Spearheaded projects like the List Attendees and Expense Budget Selection at **Brex**, resulting in significant improvements in efficiency and user experience.
+Hello! I'm Imran, stationed in Vancouver, British Columbia. My journey as a Senior Software Engineer has spanned diverse domains—from mobile to SaaS applications. Over the years, I've provided pivotal solutions, captained tech teams, and ushered architectural advances at tech giants like **Brex**, **Shopify**, and **Motorola Solutions**.
 
 ---
 
-## 🌱 Continuous Learning & Mentorship
+## 🎯 Notable Contributions & Achievements
 
-Throughout my journey, I have always been an advocate for continuous learning. I've played pivotal roles in mentoring both interns and seasoned engineers, ensuring the fostering of a collaborative and innovative environment.
+### **Brex**
+- **Swift Integration**: Straight out of onboarding, I enabled users to create virtual payment cards on the mobile app—all within a tight two-week timeframe.
+  
+- **Engaging Users**: Spearheaded and launched the Commenting feature on mobile, marking a significant uptick in user interaction through real-time discussions.
+  
+- **Collaborative Efforts**: I was a key player in a grand six-week "Disco" revamp aimed at the mobile app, especially focusing on refining and platformizing budget-centric features.
 
-- **Mentorship at Brex:** Directly impacted over 12 ICs in mobile development, unblocking team dependencies.
+### **Shopify**
   
-- **Recognition at Shopify:** Celebrated as the top interviewer for Q1 2022, facilitating a range of engineering interviews.
+- **Boosting Conversions**: Orchestrated and executed projects that brought meaningful surges in Product page-focused conversion rates.
   
-- **University College Cork:** Tutored 120+ BSc and MSc students in various programming languages, emphasizing hands-on development practices.
+- **Feature Innovations**: Pioneered features like 'favorites', 'enhanced shipping info', and 'rich product details' for the Shop mobile app, significantly enriching the user's shopping journey.
+  
+- **Talent Recruitment**: Earned accolades as Q1 2022's top interviewer, facilitating a spectrum of interviews from junior entrants to senior veterans.
+
+### **Motorola Solutions**
+
+- **Tech Transition**: Championed the transition from a monolithic codebase to an adaptive, modular framework, leveraging Kotlin Coroutines, Android Jetpack Libraries, and cutting-edge design patterns.
+
+### **Digisoft.tv**
+  
+- **Re-architecture Mastery**: Spearheaded the tech evolution of iOS and Android applications from legacy designs to modular, scalable frameworks.
+  
+- **Backend Brilliance**: Played a cardinal role in architecting and deploying a new-gen REST API, perfectly syncing with mobile app releases across platforms like AndroidTV and Amazon FireTV.
+  
+- **Product Innovations**: Led a product-first strategy, catalyzing swift client onboarding and introducing futuristic features like BLE Beacon Gamification and Virtual Reality Tours.
 
 ---
 
-## 🎓 Education
+## 🛠 Core Competencies
 
-- **Bachelor’s Degree in Business Information Systems** from University College Cork (2012 - 2016).
+- **Mobile Prodigy**: Proficient in iOS (Swift), Android (Kotlin), and React Native, having developed and scaled mobile marvels across these platforms.
+  
+- **Architectural Expertise**: Led transformative architectural shifts and enhancements, always emphasizing modular, scalable, and efficient designs.
+  
+- **Guiding Light**: Throughout my journey, I've mentored and elevated over 12 professionals directly in mobile development, always emphasizing shared learning and best practices.
 
 ---
 
-## 💌 Let's Connect!
+📧 Reach out to me: [hello@imrangardezi.com](mailto:hello@imrangardezi.com)
 
-If you're in search of a dedicated engineer with a knack for problem-solving, a product-oriented mindset, and a rich history in architectural leadership, let's chat!
-
-- 📧 [Email me](mailto:hello@imrangardezi.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/imrangardezi)
+🔗 Connect with me on [LinkedIn](www.linkedin.com/in/imrangardezi).
 
