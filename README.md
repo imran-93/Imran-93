@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Hello! I'm Imran, stationed in Vancouver, British Columbia. My journey as a Senior Software Engineer has spanned diverse domains—from mobile to SaaS applications. Over the years, I've provided pivotal solutions, captained tech teams, and ushered architectural advances at tech giants like **Brex**, **Shopify**, and **Motorola Solutions**.
+Hello! I'm Imran, stationed in Vancouver, British Columbia. My journey as a Senior Software Engineer has spanned diverse domains from mobile to SaaS applications. Over the years, I've provided pivotal solutions, captained tech teams, and ushered architectural advances at tech giants like **Brex**, **Shopify**, and **Motorola Solutions**.
 
 ---
 
